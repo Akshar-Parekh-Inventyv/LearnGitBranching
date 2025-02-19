@@ -1,17 +1,13 @@
-# Level-4 Moving Work Around
+# Level-3 A Moving Work Around
 
-
+## Task1 Cherry-pick Intro
 ```
-    git checkout main
-    git cherry-pick c4
+    git cherry-pick C3 C4 C7
 ```
 ![alt text](image.png)
 
+## Task2 Interactive Rebase Intro
 ```
-    git rebase -i HEAD~2
-    git commit --amend
-    git rebase -i HEAD~2
-    git checkout main
-    git merge caption 
+    git rebase -i HEAD~4
 ```
 ![alt text](image-1.png)

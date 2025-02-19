@@ -1,32 +1,32 @@
 # Level-1 Introduction Sequence 
 
+## Task1 Intorduction to git commits
 ```
     git commit
     git commit
 ```
-
 ![alt text](image.png)
 
-```
-![alt text](image-1.png)
-```
-![alt text](image-2.png)
-
-
+## Task2 Branching a Git
 ```
     git branch bugFix
     git checkout bugFix
+```
+![alt text](image-2.png)
+
+## Task3 Merging in git
+```
+    git checkout -b bugFix
     git commit 
     git checkout main
     git commit 
     git merge bugFix
 ```
-![alt text](image-3.png)
+![alt text](image-5.png)
 
-
+## Task4 Rebase Introduction
 ```
-    git branch bugFix
-    git checkout bugFix
+    git checkout -b bugFix
     git commit
     git checkout main
     git commit
