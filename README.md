@@ -1,6 +1,6 @@
 # LearnGitBranching
 
-This project contains various sections covering different topics related to Git branching, with supporting images and markdown documentation.
+This project contains various sections covering different topics related to Git branching, with supporting images and markdown documentation.aa
 
 ## Folder Structure
 
