@@ -1,13 +1,13 @@
 # Level 1 Push & Pull -- Git Remotes!
 
-## Task1 
+## Task1 Clone intro
 
 ```
     git clone
 ```
 ![alt text](image.png)
 
-## Task2 
+## Task2 Remote Branches
 ```
     git commit
     git checkout o/main
@@ -15,21 +15,21 @@
 ```
 ![alt text](image-1.png)
 
-## Task3
+## Task3 Git Fetchin'
 ```
     git fetch
 ```
 ![alt text](image-2.png)
 
 
-## Task4 
+## Task4 Git Pullin'
 ```
     git pull
 ```
 ![alt text](image-3.png)
 
 
-## Task5
+## Task5 Faking Teamwork
 ```
     git clone
     git fakeTeamwork main 2
@@ -38,7 +38,7 @@
 ```
 ![alt text](image-4.png)
 
-## Task6
+## Task6 Git Pushin'
 ```
    git commit
    git commit
@@ -46,7 +46,7 @@
 ```
 ![alt text](image-5.png)
 
-## Task7
+## Task7 Diverged History
 ```
    git clone
    git fakeTeamwork main 1
@@ -56,7 +56,7 @@
 ```
 ![alt text](image-6.png)
 
-## Task8
+## Task8 Locked Main
 ```
    git checkout -b feature
    git push
